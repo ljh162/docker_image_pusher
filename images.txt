@@ -1,1 +1,2 @@
-bitnami/kafka:latest
+maven:3.8.6-openjdk-17
+openjdk:17-jdk-slim
