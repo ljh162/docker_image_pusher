@@ -1,2 +1,2 @@
 maven:3.9.6
-openjdk:17-jre-slim
+openjdk:17
