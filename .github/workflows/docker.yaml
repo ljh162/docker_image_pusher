@@ -47,7 +47,6 @@ jobs:
         echo "Free up disk space complete"
         echo "=============================================================================="
         df -hT
-        docker rmi $(docker images -q)
         echo "=============================================================================="
 
     - name: Checkout Code
