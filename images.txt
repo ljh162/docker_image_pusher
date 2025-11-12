@@ -1,1 +1,2 @@
-jenkins/jenkins:lts-jdk11
+registry:2
+portainer_agnet
