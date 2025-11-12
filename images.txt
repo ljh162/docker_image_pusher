@@ -1,2 +1,1 @@
 registry:2
-portainer_agent
