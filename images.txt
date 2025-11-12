@@ -1,2 +1,2 @@
 registry:2
-portainer_agnet
+portainer_agent
