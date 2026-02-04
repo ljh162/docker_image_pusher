@@ -1,1 +1,1 @@
-docker pull quay.io/maksymbilenko/oracle-12c
+quay.io/maksymbilenko/oracle-12c
