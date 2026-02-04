@@ -1,1 +1,1 @@
-portainer/agent:latest
+docker pull quay.io/maksymbilenko/oracle-12c
