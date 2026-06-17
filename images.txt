@@ -1,1 +1,1 @@
-quay.io/maksymbilenko/oracle-12c
+bofm/oracle12c
